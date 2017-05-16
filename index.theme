@@ -1,460 +1,425 @@
 [Icon Theme]
-Name=Obsidian-1
+Name=Obsidian
 Inherits=gnome,hicolor
 Comment=Icon theme project with tilish style, by Tiheum modified by Marcus Wilhelm
-Directories=Obsidian-1/actions/16,Obsidian-1/animations/16,Obsidian-1/apps/16,Obsidian-1/web/16,Obsidian-1/categories/16,Obsidian-1/devices/16,Obsidian-1/emblems/16,Obsidian-1/mimetypes/16,Obsidian-1/places/16,Obsidian-1/status/16,Obsidian-1/stock/16,Obsidian-1/actions/22,Obsidian-1/animations/22,Obsidian-1/apps/22,Obsidian-1/web/22,Obsidian-1/categories/22,Obsidian-1/devices/22,Obsidian-1/emblems/22,Obsidian-1/mimetypes/22,Obsidian-1/places/22,Obsidian-1/status/22,Obsidian-1/stock/22,Obsidian-1/actions/24,Obsidian-1/animations/24,Obsidian-1/apps/24,Obsidian-1/web/24,Obsidian-1/categories/24,Obsidian-1/devices/24,Obsidian-1/emblems/24,Obsidian-1/mimetypes/24,Obsidian-1/places/24,Obsidian-1/status/24,Obsidian-1/stock/24,Obsidian-1/actions/32,Obsidian-1/animations/32,Obsidian-1/apps/32,Obsidian-1/web/32,Obsidian-1/categories/32,Obsidian-1/devices/32,Obsidian-1/emblems/32,Obsidian-1/mimetypes/32,Obsidian-1/places/32,Obsidian-1/status/32,Obsidian-1/stock/32,Obsidian-1/actions/48,Obsidian-1/animations/48,Obsidian-1/apps/48,Obsidian-1/web/48,Obsidian-1/categories/48,Obsidian-1/devices/48,Obsidian-1/emblems/48,Obsidian-1/mimetypes/48,Obsidian-1/places/48,Obsidian-1/status/48,Obsidian-1/stock/48,Obsidian-1/actions/64,Obsidian-1/animations/64,Obsidian-1/apps/64,Obsidian-1/categories/64,Obsidian-1/devices/64,Obsidian-1/emblems/64,Obsidian-1/mimetypes/64,Obsidian-1/places/64,Obsidian-1/status/64,Obsidian-1/stock/64,Obsidian-1/actions/96,Obsidian-1/animations/96,Obsidian-1/apps/96,Obsidian-1/web/96,Obsidian-1/categories/96,Obsidian-1/devices/96,Obsidian-1/emblems/96,Obsidian-1/mimetypes/96,Obsidian-1/places/96,Obsidian-1/status/96,Obsidian-1/stock/96,Obsidian-1/actions/scalable,Obsidian-1/apps/scalable,Obsidian-1/categories/scalable,Obsidian-1/devices/scalable,Obsidian-1/emblems/scalable,Obsidian-1/status/scalable,Obsidian-1/stock/scalable
+Directories=Obsidian/actions/16,Obsidian/apps/16,Obsidian/web/16,Obsidian/categories/16,Obsidian/devices/16,Obsidian/emblems/16,Obsidian/mimetypes/16,Obsidian/places/16,Obsidian/status/16,Obsidian/stock/16,Obsidian/actions/22,Obsidian/apps/22,Obsidian/web/22,Obsidian/categories/22,Obsidian/devices/22,Obsidian/emblems/22,Obsidian/mimetypes/22,Obsidian/places/22,Obsidian/status/22,Obsidian/stock/22,Obsidian/actions/24,Obsidian/apps/24,Obsidian/web/24,Obsidian/categories/24,Obsidian/devices/24,Obsidian/emblems/24,Obsidian/mimetypes/24,Obsidian/places/24,Obsidian/status/24,Obsidian/stock/24,Obsidian/actions/32,Obsidian/apps/32,Obsidian/web/32,Obsidian/categories/32,Obsidian/devices/32,Obsidian/emblems/32,Obsidian/mimetypes/32,Obsidian/places/32,Obsidian/status/32,Obsidian/stock/32,Obsidian/actions/48,Obsidian/apps/48,Obsidian/web/48,Obsidian/categories/48,Obsidian/devices/48,Obsidian/emblems/48,Obsidian/mimetypes/48,Obsidian/places/48,Obsidian/status/48,Obsidian/stock/48,Obsidian/actions/64,Obsidian/apps/64,Obsidian/categories/64,Obsidian/devices/64,Obsidian/emblems/64,Obsidian/mimetypes/64,Obsidian/places/64,Obsidian/status/64,Obsidian/stock/64,Obsidian/actions/96,Obsidian/apps/96,Obsidian/web/96,Obsidian/categories/96,Obsidian/devices/96,Obsidian/emblems/96,Obsidian/mimetypes/96,Obsidian/places/96,Obsidian/status/96,Obsidian/stock/96,Obsidian/actions/scalable,Obsidian/apps/scalable,Obsidian/categories/scalable,Obsidian/devices/scalable,Obsidian/emblems/scalable,Obsidian/status/scalable,Obsidian/stock/scalable
 
 
 KDE-Extensions=.svg
 
-[Obsidian-1/actions/16]
+[Obsidian/actions/16]
 Size=16
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/16]
-Size=16
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/16]
+[Obsidian/apps/16]
 Size=16
 Context=Applications
 Type=fixed
 
-[Obsidian-1/web/16]
+[Obsidian/web/16]
 Size=16
 Context=Applications
 Type=fixed
 
-[Obsidian-1/devices/16]
+[Obsidian/devices/16]
 Size=16
 Context=Devices
 Type=fixed
 
-[Obsidian-1/categories/16]
+[Obsidian/categories/16]
 Size=16
 Context=Categories
 Type=fixed
 
-[Obsidian-1/emblems/16]
+[Obsidian/emblems/16]
 Size=16
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/mimetypes/16]
+[Obsidian/mimetypes/16]
 Size=16
 Context=MimeTypes
 Type=Fixed
 MinSize=16
 
-[Obsidian-1/places/16]
+[Obsidian/places/16]
 Size=16
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/16]
+[Obsidian/status/16]
 Size=16
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/16]
+[Obsidian/stock/16]
 Size=16
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/22]
+[Obsidian/actions/22]
 Size=22
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/22]
-Size=22
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/22]
+[Obsidian/apps/22]
 Size=22
 Context=Applications
 Type=fixed
 
-[Obsidian-1/web/22]
+[Obsidian/web/22]
 Size=22
 Context=Applications
 Type=fixed
 
-[Obsidian-1/devices/22]
+[Obsidian/devices/22]
 Size=22
 Context=Devices
 Type=fixed
 
-[Obsidian-1/categories/22]
+[Obsidian/categories/22]
 Size=22
 Context=Categories
 Type=fixed
 
-[Obsidian-1/emblems/22]
+[Obsidian/emblems/22]
 Size=22
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/mimetypes/22]
+[Obsidian/mimetypes/22]
 Size=22
 Context=MimeTypes
 Type=Fixed
 MinSize=22
 
-[Obsidian-1/places/22]
+[Obsidian/places/22]
 Size=22
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/22]
+[Obsidian/status/22]
 Size=22
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/22]
+[Obsidian/stock/22]
 Size=22
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/24]
+[Obsidian/actions/24]
 Size=24
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/24]
-Size=24
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/24]
+[Obsidian/apps/24]
 Size=24
 Context=Applications
 Type=fixed
 
-[Obsidian-1/web/24]
+[Obsidian/web/24]
 Size=24
 Context=Applications
 Type=fixed
 
-[Obsidian-1/categories/24]
+[Obsidian/categories/24]
 Size=24
 Context=Categories
 Type=fixed
 
-[Obsidian-1/devices/24]
+[Obsidian/devices/24]
 Size=24
 Context=Devices
 Type=fixed
 
-[Obsidian-1/emblems/24]
+[Obsidian/emblems/24]
 Size=24
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/mimetypes/24]
+[Obsidian/mimetypes/24]
 Size=24
 Context=MimeTypes
 Type=Fixed
 MinSize=24
 
-[Obsidian-1/places/24]
+[Obsidian/places/24]
 Size=24
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/24]
+[Obsidian/status/24]
 Size=24
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/24]
+[Obsidian/stock/24]
 Size=24
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/32]
+[Obsidian/actions/32]
 Size=32
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/32]
-Size=32
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/32]
+[Obsidian/apps/32]
 Size=32
 Context=Applications
 Type=fixed
 
-[Obsidian-1/web/32]
+[Obsidian/web/32]
 Size=32
 Context=Applications
 Type=fixed
 
-[Obsidian-1/devices/32]
+[Obsidian/devices/32]
 Size=32
 Context=Devices
 Type=fixed
 
-[Obsidian-1/categories/32]
+[Obsidian/categories/32]
 Size=32
 Context=Categories
 Type=fixed
 
-[Obsidian-1/emblems/32]
+[Obsidian/emblems/32]
 Size=32
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/mimetypes/32]
+[Obsidian/mimetypes/32]
 Size=32
 Context=MimeTypes
 Type=Fixed
 MinSize=32
 
-[Obsidian-1/places/32]
+[Obsidian/places/32]
 Size=32
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/32]
+[Obsidian/status/32]
 Size=32
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/32]
+[Obsidian/stock/32]
 Size=32
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/48]
+[Obsidian/actions/48]
 Size=48
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/48]
-Size=48
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/48]
+[Obsidian/apps/48]
 Size=48
 Context=Applications
 Type=fixed
 
-[Obsidian-1/web/48]
+[Obsidian/web/48]
 Size=48
 Context=Applications
 Type=fixed
 
-[Obsidian-1/devices/48]
+[Obsidian/devices/48]
 Size=48
 Context=Devices
 Type=fixed
 
-[Obsidian-1/categories/48]
+[Obsidian/categories/48]
 Size=48
 Context=Categories
 Type=fixed
 
-[Obsidian-1/emblems/48]
+[Obsidian/emblems/48]
 Size=48
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/mimetypes/48]
+[Obsidian/mimetypes/48]
 Size=48
 Context=MimeTypes
 Type=Fixed
 MinSize=48
 
-[Obsidian-1/places/48]
+[Obsidian/places/48]
 Size=48
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/48]
+[Obsidian/status/48]
 Size=48
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/48]
+[Obsidian/stock/48]
 Size=48
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/64]
+[Obsidian/actions/64]
 Size=64
 Context=Actions
 Type=fixed
 
-[Obsidian-1/animations/64]
-Size=64
-Context=Animations
-Type=fixed
-
-[Obsidian-1/apps/64]
+[Obsidian/apps/64]
 Size=64
 Context=Applications
 Type=fixed
 
-[Obsidian-1/categories/64]
+[Obsidian/categories/64]
 Size=64
 Context=Categories
 Type=fixed
 
-[Obsidian-1/devices/64]
+[Obsidian/devices/64]
 Size=64
 Context=Devices
 Type=fixed
 
-[Obsidian-1/emblems/64]
+[Obsidian/emblems/64]
 Size=64
 Context=Emblems
 Type=fixed
 
-[Obsidian-1/places/64]
+[Obsidian/places/64]
 Size=64
 Context=Places
 Type=fixed
 
-[Obsidian-1/status/64]
+[Obsidian/status/64]
 Size=64
 Context=Status
 Type=fixed
 
-[Obsidian-1/stock/64]
+[Obsidian/stock/64]
 Size=64
 Context=Stock
 Type=fixed
 
-[Obsidian-1/actions/96]
+[Obsidian/actions/96]
 Size=96
 Context=Actions
 Type=Scalable
 
-[Obsidian-1/animations/96]
-Size=96
-Context=Animations
-Type=Scalable
-
-[Obsidian-1/apps/96]
+[Obsidian/apps/96]
 Size=96
 Context=Applications
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/web/96]
+[Obsidian/web/96]
 Size=96
 Context=Applications
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/categories/96]
+[Obsidian/categories/96]
 Size=96
 Context=Categories
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/devices/96]
+[Obsidian/devices/96]
 Size=96
 Context=Devices
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/emblems/96]
+[Obsidian/emblems/96]
 Size=96
 Context=Emblems
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/mimetypes/96]
+[Obsidian/mimetypes/96]
 Size=96
 Context=MimeTypes
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/places/96]
+[Obsidian/places/96]
 Size=96
 Context=Places
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/status/96]
+[Obsidian/status/96]
 Size=96
 Context=Status
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/stock/96]
+[Obsidian/stock/96]
 Size=96
 Context=Stock
 Type=Scalable
 MinSize=32
 MaxSize=512
 
-[Obsidian-1/actions/scalable]
+[Obsidian/actions/scalable]
 Size=96
 Context=Actions
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/apps/scalable]
+[Obsidian/apps/scalable]
 Size=96
 Context=Applications
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/categories/scalable]
+[Obsidian/categories/scalable]
 Size=96
 Context=Categories
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/devices/scalable]
+[Obsidian/devices/scalable]
 Size=96
 Context=Devices
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/emblems/scalable]
+[Obsidian/emblems/scalable]
 Size=96
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/places/scalable]
+[Obsidian/places/scalable]
 Size=96
 Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/status/scalable]
+[Obsidian/status/scalable]
 Size=96
 Context=Status
 Type=Scalable
 MinSize=8
 MaxSize=512
 
-[Obsidian-1/stock/scalable]
+[Obsidian/stock/scalable]
 Size=96
 Context=Stock
 Type=Scalable

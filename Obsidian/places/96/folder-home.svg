@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="folder-home.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview132"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="48"
+     inkscape:cy="48"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -713,7 +737,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -782,7 +806,7 @@
        style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
   </g>
   <path
-     style="fill:#1b63a5;fill-opacity:1;stroke:none"
+     style="fill:#00508c;fill-opacity:1;stroke:none"
      id="path2998"
      d="m 48.606427,42.162114 -16.69355,16.69355 3.23101,3.23101 2.69251,-2.69251 0,12.92405 8.61603,0 0,-6.46202 c 0,-1.19332 0.96068,-2.15401 2.154,-2.15401 1.19332,0 2.15402,0.96069 2.15402,2.15401 l 0,6.46202 8.61602,0 0,-12.92405 2.69251,2.69251 3.231,-3.23101 -16.69355,-16.69355 z m 6.46202,2.154 0,1.61551 4.30802,4.30802 0,-5.92353 -4.30802,0 z" />
 </svg>

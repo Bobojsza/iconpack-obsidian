@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="display:inline"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="application-x-sql.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1460"
+     inkscape:window-height="855"
+     id="namedview65"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="48"
+     inkscape:cy="48"
+     inkscape:window-x="145"
+     inkscape:window-y="76"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2410">
     <linearGradient
@@ -247,7 +271,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -265,7 +289,7 @@
     <path
        d="M 12,93 C 7.5908667,93 4,89.409133 4,85 L 4,14 C 4,9.5908667 7.5908667,6 12,6 l 46,0 34,34 0,45 c 0,4.409133 -3.590867,8 -8,8 z"
        id="path3770"
-       style="display:inline;opacity:1;fill:#820898;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="display:inline;opacity:1;fill:#933ea8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
      id="layer5" />
@@ -291,7 +315,7 @@
     <path
        id="rect4263"
        d="M 57.995739,5.9954837 91.997421,39.983051 57.871247,39.980672 Z"
-       style="opacity:1;fill:#a20bbd;fill-opacity:1" />
+       style="opacity:1;fill:#bd4bc2;fill-opacity:1" />
     <path
        id="path11"
        d="M 39.357422,33.035156 C 25.211805,33.035156 13.75,35.289532 13.75,38.074219 l 0,4.021484 c 0,2.784677 11.461805,4.541016 25.607422,4.541016 13.030723,0 23.776529,-1.490627 25.390625,-3.902344 l -11.007813,0 0,-8.830078 C 49.640292,33.355732 44.690955,33.035156 39.357422,33.035156 Z M 14.875,45.626953 c -0.766882,0.360829 -1.125,0.749363 -1.125,1.154297 l 0,3.078125 c 0,2.128909 11.461805,3.853516 25.607422,3.853516 14.145606,0 25.607422,-1.724607 25.607422,-3.853516 l 0,-3.078125 c 0,-0.404934 -0.450943,-0.793468 -1.201172,-1.154297 -3.267582,1.559593 -13.02088,2.689453 -24.482422,2.689453 -11.478219,0 -21.138671,-1.12986 -24.40625,-2.689453 z m 0,6.931641 c -0.766882,0.360844 -1.125,0.745361 -1.125,1.154297 l 0,3.074218 c 0,2.128913 11.461805,3.853516 25.607422,3.853516 14.145606,0 25.607422,-1.724603 25.607422,-3.853516 l 0,-3.074218 c 0,-0.408936 -0.450943,-0.793453 -1.201172,-1.154297 -3.267582,1.559615 -13.02088,2.685547 -24.482422,2.685547 -11.478219,0 -21.138671,-1.125932 -24.40625,-2.685547 z m 0,6.875 c -0.766882,0.360844 -1.125,0.745361 -1.125,1.154297 l 0,3.076171 c 0,2.128913 11.461805,3.851563 25.607422,3.851563 14.145606,0 25.607422,-1.722648 25.607422,-3.851563 l 0,-3.076171 c 0,-0.408936 -0.450943,-0.793453 -1.201172,-1.154297 -3.267582,1.559615 -13.02088,2.685547 -24.482422,2.685547 -11.478219,0 -21.138671,-1.125932 -24.40625,-2.685547 z"

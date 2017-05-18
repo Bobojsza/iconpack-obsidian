@@ -13,7 +13,7 @@
    height="96"
    width="96"
    version="1.0"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="gnome-mime-video-x-ms-wmv.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,13 +24,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="981"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview155"
      showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="-13.220339"
-     inkscape:cy="48"
+     inkscape:cx="-93.559322"
+     inkscape:cy="47.999999"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -819,7 +819,7 @@
        id="path3770-3"
        d="m 12.677967,92.927841 c -4.409132,0 -8,-3.621238 -8,-8.067679 l 0,-9.076139 87.999993,0 0,9.076139 c 0,4.446441 -3.59086,8.067679 -7.999993,8.067679 z" />
     <path
-       style="display:inline;opacity:0.30500004;fill:#a0643c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="display:inline;opacity:0.2;fill:#804b26;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3770-3-0"
        d="m 12.467778,93.015597 c -4.409132,0 -8,-3.62124 -8,-8.06768 l 0,-9.07614 87.999993,0 0,9.07614 c 0,4.44644 -3.59086,8.06768 -7.999993,8.06768 z"
        inkscape:connector-curvature="0" />

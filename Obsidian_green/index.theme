@@ -34,13 +34,14 @@ Type=fixed
 [mimetypes/16]
 Size=16
 Context=MimeTypes
-Type=Fixed
-MinSize=16
+Type=fixed
 
 [places/16]
 Size=16
 Context=Places
-Type=fixed
+Type=Scalable
+MinSize=16
+MaxSize=22
 
 [status/16]
 Size=16
